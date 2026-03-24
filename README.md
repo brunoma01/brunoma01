@@ -8,12 +8,12 @@ Sou um **Desenvolvedor Full Stack Júnior** apaixonado por transformar lógica e
 
 Aqui estão os destaques do que desenvolvi e subi:
 
-* ☁️ **[Clima-Agora](https://github.com/brunoma01/projeto-clima)** - Consulta de meteorologia em tempo real com Fetch API.
-* 🥁 **[Bateria Virtual](https://github.com/brunoma01/Bateria-Virtual)** - Instrumento musical interativo com eventos de teclado.
-* 🕒 **[Relógio Analógico](https://github.com/brunoma01/relogio-analogico)** - Sincronização de tempo real e rotação via CSS/JS.
-* ❌ **[Jogo da Velha](https://github.com/brunoma01/jogo-da-velha)** - Lógica de matrizes e verificação de vitória.
-* 🧠 **[Web Dev Quiz](https://github.com/brunoma01/web-quiz)** - Quiz dinâmico com sistema de pontuação.
-* 📑 **[Drag and Drop](https://github.com/brunoma01/drag-and-drop-js)** - Interface interativa de arrastar e soltar.
+* 📑 **[Arrastar e Soltar](https://brunoma01.github.io/Arrasta-e-Solta/)** - Interface interativa com lógica de validação de sequência.
+* 🧠 **[Web Dev Quiz](https://brunoma01.github.io/Projeto-quiz/)** - Quiz dinâmico com sistema de score e feedback visual.
+* ❌ **[Jogo da Velha](https://brunoma01.github.io/Jogo-da-velha/)** - Lógica de matrizes para verificação de vitória e empate.
+* 🕒 **[Relógio Analógico](https://brunoma01.github.io/Relogio-analogico/)** - Manipulação do objeto `Date` e transformações CSS em tempo real.
+* 🥁 **[Bateria Virtual](https://brunoma01.github.io/Bateria-Virtual/)** - Simulador com eventos de áudio e mapeamento de teclado.
+* ☁️ **[Clima-Agora](https://brunoma01.github.io/Clima-agora/)** - Consumo de API externa com funções assíncronas (Async/Await). * Requer de uma API KEY do OpenWeatherMap.
 
 ---
 
