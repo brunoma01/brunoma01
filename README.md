@@ -10,13 +10,13 @@ Além da programação, sou um entusiasta de tecnologia em constante aprendizado
 * 📝 **[FocusList](https://focuslist-pd85.onrender.com/)**
 Aplicação web completa de gerenciamento de tarefas com foco em produtividade e experiência do usuário.
 
-✔ Sistema de autenticação de usuários
-✔ CRUD completo de tarefas
-✔ Filtros inteligentes (todas, pendentes, atrasadas, concluídas)
-✔ Badges dinâmicas (Hoje, Amanhã, Atrasada)
-✔ Ordenação por prioridade
-✔ Auto-save na edição (UX moderna)
-✔ Deploy com PostgreSQL
+- ✔ Sistema de autenticação de usuários
+- ✔ CRUD completo de tarefas
+- ✔ Filtros inteligentes (todas, pendentes, atrasadas, concluídas)
+- ✔ Badges dinâmicas (Hoje, Amanhã, Atrasada)
+- ✔ Ordenação por prioridade
+- ✔ Auto-save na edição (UX moderna)
+- ✔ Deploy com PostgreSQL
 
 
 ###  Outros Projetos
