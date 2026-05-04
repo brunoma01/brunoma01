@@ -46,4 +46,4 @@ Aqui estão alguns dos projetos que desenvolvi e subi:
 ### 📫 Como me encontrar
 
 * **LinkedIn:** [Bruno Machado de Almeida](https://www.linkedin.com/in/bruno-machado-de-almeida-460b292b4/)
-* **Portfólio Online:** Em construção 🚧
+* **Portfólio Online:** https://focuslist-pd85.onrender.com/
